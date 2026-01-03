@@ -56,7 +56,7 @@ class MazeEnvironment:
 
         self.screen = turtle.Screen()
         self.screen.title("Maze")
-        self.screen.bgpic("new_maze.gif")
+        self.screen.bgpic("assets/maze.gif")
         self.screen.setup(width=620, height=620)
         self.screen.tracer(0)
 
