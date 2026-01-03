@@ -53,7 +53,10 @@ python Q-Learning.py
 
 ### 📈 Results & Observations
 Convergence: Q-Learning tended to find the optimal path faster due to its aggressive max-operator updates compared to SARSA's safer exploration path.
+
 Exploration: Implemented an decaying epsilon-greedy strategy to balance exploration (early games) and exploitation (late games).
 
 ### 🔜 Future Work
-Implementation of Deep Q-Networks (DQN) to handle continuous state spaces.Applying the agent to more complex environments (e.g., Connect-4).
+Implementation of Deep Q-Networks (DQN) to handle continuous state spaces. 
+
+Applying the agent to more complex environments (e.g., Connect-4).
