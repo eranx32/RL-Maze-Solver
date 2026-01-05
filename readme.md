@@ -3,7 +3,9 @@ This repository contains a pure Python implementation of fundamental Reinforceme
 
 Unlike projects that rely on high-level RL libraries (like Stable Baselines or Ray), this project implements the agents, environment, and learning logic from scratch using only NumPy for matrix operations. This approach demonstrates a deep understanding of the underlying mathematical concepts and the Bellman equations.
 
-(Note: If the GIF isn't loading, ensure assets/maze.gif is present)
+<div align="center">
+  <img src="/images/preview.gif" width="300" />
+</div>
 
 ## 🧠 Algorithms Implemented
 
@@ -56,9 +58,6 @@ Convergence: Q-Learning tended to find the optimal path faster due to its aggres
 
 Exploration: Implemented an decaying epsilon-greedy strategy to balance exploration (early games) and exploitation (late games).
 
-<div align="center">
-  <img src="/images/preview.gif" width="300" />
-</div>
 
 ### 🔜 Future Work
 Implementation of Deep Q-Networks (DQN) to handle continuous state spaces. 
