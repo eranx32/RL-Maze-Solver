@@ -57,7 +57,7 @@ Convergence: Q-Learning tended to find the optimal path faster due to its aggres
 Exploration: Implemented an decaying epsilon-greedy strategy to balance exploration (early games) and exploitation (late games).
 
 <div align="center">
-  <img src="demo_preview.gif" width="600" />
+  <img src="/images/preview.gif" width="600" />
 </div>
 
 ### 🔜 Future Work
