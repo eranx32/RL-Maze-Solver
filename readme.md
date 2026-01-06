@@ -17,7 +17,7 @@ I explored three different approaches to solving the tabular RL problem:
 
 ## 🛠️ Tech Stack & Architecture
 
-* **Language:** Python 3.x
+* **Language:** Python
 * **Math:** NumPy (Matrix manipulations for Q-Tables, G-Values)
 * **Visualization:** Turtle Graphics (Custom rendering of the agent and environment)
 * **Environment:** A custom grid-world with:
